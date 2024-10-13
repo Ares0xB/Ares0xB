@@ -6,7 +6,7 @@
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-## ⚙️ <b>Development environments</b> ⚙️
+## 👨‍💻 <b>Development environments</b> 👨‍💻
 ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Sublime](https://img.shields.io/badge/-Sublime%20Text-FF9800?style=flat&logo=Sublime%20Text&logoColor=white)
 
