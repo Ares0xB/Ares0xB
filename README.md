@@ -1,6 +1,6 @@
 
 # <picture><img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 50px></picture> Whoami
- 👤 I’m a dedicated Cybersecurity student with a strong passion for ethical hacking and malware development.
+ 👤 I’m a Cybersecurity student with a strong passion for ethical hacking and malware development.
 
 🔍 I specialize in various aspects of cybersecurity, including penetration testing and threat analysis.
 
