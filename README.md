@@ -6,15 +6,12 @@
 
 🛠️ Currently working on projects with <picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width = 20px></picture> and <picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" width = 20px></picture> for ethical hacking purposes.
 
-## ⚒️ <b>Programming Languages</b> ⚒️
+## ⚒️ <b>Technologies</b> ⚒️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Golang](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
-
-## 🔧 <b>Technologies</b> 🔧
 ![Docker](https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 ## 👨‍💻 <b>Development Environments</b> 👨‍💻
