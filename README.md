@@ -1,14 +1,12 @@
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Whoami
-👤 I’m a dedicated Cybersecurity student with a strong passion for ethical hacking and malware development. My journey in cybersecurity began with a fascination for understanding how systems work and identifying vulnerabilities that could be exploited.
+# <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Whoami
+ 👤 I’m a dedicated Cybersecurity student with a strong passion for ethical hacking and malware development.
 
-🔍 I specialize in various aspects of cybersecurity, including penetration testing, threat analysis, and the creation of secure applications. I am particularly interested in the intersection of security and software development, where I leverage my skills to build robust defenses against malicious activities.
+🔍 I specialize in various aspects of cybersecurity, including penetration testing, threat analysis, and network security.
 
-🛠️ I enjoy experimenting with different programming languages such as Python, Bash, and Golang to create tools and scripts that enhance security measures. My current projects involve developing advanced malware obfuscation techniques and building command and control (C2) systems for ethical hacking purposes.
+🛠️ currently working on projects involving the development of advanced malware obfuscation techniques and the construction of command and control (C2) systems for ethical hacking purposes.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<img align="right" width="400" alt="dragon" src="https://i.pinimg.com/originals/5f/29/30/5f293030b863a0c6f927959f7c57d3bc.jpg"/>
 
 ## ⚒️ <b>Programming Languages</b> ⚒️
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
