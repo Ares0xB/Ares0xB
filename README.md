@@ -4,7 +4,7 @@
 
 🔍 I specialize in various aspects of cybersecurity, including penetration testing and threat analysis.
 
-🛠️ Currently working on projects with <picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width = 20px></picture> and <picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" width = 20px></picture> for ethical hacking purposes.
+🛠️ Currently working on projects with <picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" width = 20px></picture> and <picture><img src = "https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Light.svg" width = 20px></picture>.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
